@@ -28,20 +28,28 @@ body {
 
 #topo {
   /* TODO: background-color */
+
 }
 
 h1 {
   /* TODO: text-align: center */
+
 }
 
 .cargo {
   /* TODO: font-weight: bold OU font-style: italic */
+
 }
 
 .cartao {
   /* TODO: padding, border e margin */
+margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-left: 20px;
 }
 
 .btn {
   /* TODO: background-color */
+
 }
